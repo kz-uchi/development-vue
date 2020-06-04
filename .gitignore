@@ -4,3 +4,7 @@
 node_modules
 release
 .sass-cache
+# 
+app/*
+!app/Dockerfile
+!app/vue.config.js
